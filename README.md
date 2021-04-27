@@ -1,5 +1,7 @@
 # Multiplicative Group
 
+![EXAMPLE](./static/example.png)
+
 ### Installation
 
 ```
